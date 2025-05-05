@@ -1,5 +1,0 @@
-VL53L4CD_ULD_Driver/VL53L4CD_api.o: ../VL53L4CD_ULD_Driver/VL53L4CD_api.c \
- ../VL53L4CD_ULD_Driver/VL53L4CD_api.h \
- C:/Users/a8456/e2_studio/workspace_5.8/RA4M2_VL53L4CD_Project1/Platform/platform.h
-../VL53L4CD_ULD_Driver/VL53L4CD_api.h:
-C:/Users/a8456/e2_studio/workspace_5.8/RA4M2_VL53L4CD_Project1/Platform/platform.h:
